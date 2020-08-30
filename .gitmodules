@@ -1,0 +1,9 @@
+[submodule "oUF"]
+	path = oUF
+	url = https://github.com/oUF-wow/oUF
+[submodule "oUF_Abu"]
+	path = oUF_Abu
+	url = https://github.com/Fentar/oUF_Abu
+[submodule "oUF_AbuOptions"]
+	path = oUF_AbuOptions
+	url = https://github.com/Fentar/oUF_AbuOptions
