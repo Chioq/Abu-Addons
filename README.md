@@ -23,4 +23,5 @@ oUF_Abu & oUF_AbuOptions
 
 ### Thanks to
 [Sticklord](https://github.com/Sticklord)
+
 [frumpymoons](https://github.com/frumpymoons), who kept oUF_Abu updated in the past years
